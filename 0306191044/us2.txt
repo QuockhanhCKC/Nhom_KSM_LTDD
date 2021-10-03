@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-abcdef
-=======
 Nguyễn Nhật Mến
->>>>>>> us02
+us02
+LTDĐ
