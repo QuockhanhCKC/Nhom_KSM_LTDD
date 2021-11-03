@@ -1,14 +1,1 @@
-<<<<<<< Updated upstream
-Nguyễn Nhật Mến
-=======
-<<<<<<< HEAD
-abcdef
-=======
-Nguyễn Nhật Mến
->>>>>>> us02
-LTDĐ
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
-lập trình di động
->>>>>>> Stashed changes
+nguyễn nhật Mến
